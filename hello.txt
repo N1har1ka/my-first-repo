@@ -3,4 +3,6 @@ Hello, Git
 hello
 =======
 Hello Github!
->>>>>>> 17833f8af60b65ef599111b5f7b92ec883fd976e
+>>>>>>> 17833f8af60b65ef599111b5f7b92ec883fd976e 
+hello
+
